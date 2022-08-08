@@ -1,0 +1,25 @@
+.Item {
+  display: inline-block;
+}
+
+.contador {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.contador__suma {
+  font-size: 20px;
+}
+.contador__resta {
+  font-size: 20px;
+}
+.contador__resultado {
+  font-size: 20px;
+}
+
+.item_add {
+  margin: 5px 20px 10px 20px;
+}

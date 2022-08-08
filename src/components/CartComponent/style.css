@@ -1,0 +1,47 @@
+.oculto {
+  display: none;
+}
+.cart {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+  padding: 0;
+}
+
+.cartVacio {
+  color: red;
+  text-align: center;
+}
+
+.cart__item {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+  padding: 1rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.cart__item__img {
+  height: 150px;
+}
+
+.cart__item__desc p {
+  font-size: .9rem;
+  margin: 0;
+}
+.cart__item__title {
+  display: inline-block;
+  margin-top: 0;
+}
+
+.unLink:visited {
+  text-decoration: none;
+}
+
+.unLink:link {
+  text-decoration: none;
+}

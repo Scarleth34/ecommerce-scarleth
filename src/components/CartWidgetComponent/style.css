@@ -1,0 +1,19 @@
+.oculto {
+  visibility: hidden;
+}
+
+.widgetCart {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.widgetCart__icon {
+  margin: 0px;
+}
+
+.contador {
+  margin: 0px;
+  padding: 0px;
+}
