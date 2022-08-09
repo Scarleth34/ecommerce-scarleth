@@ -25,4 +25,4 @@ Hacer uso de **npm install** seguido de **npm start** para iniciar el proyecto e
 
 ### Funcionamiento:
 
-![Funcionamiento del ecommerce](/funcionamiento.gif "Navegación GIF")
+![Funcionamiento del ecommerce](/funcionamiento_ecommerce.gif "Navegación GIF")
